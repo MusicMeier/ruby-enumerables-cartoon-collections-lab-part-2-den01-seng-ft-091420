@@ -34,4 +34,5 @@ def find_valid_calls(planeteer_calls)
    if string = valid_calls
   end 
  end
+ valid_calls[0]
 end
